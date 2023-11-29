@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prashant Acharya</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Dexgame**
+- 🔭 I’m currently working on **GuffSuff**
 
 - 🌱 I’m currently learning **React and Advanced Javascript and further looking for backend and mobile app development**
 
 - 👨‍💻 All of my projects are available at [https://prashant48653c.github.io/Prashant-Portfolio/](https://prashant48653c.github.io/Prashant-Portfolio/)
 
-- 💬 Ask me about **React,Javascript,CSS and Frontend tools**
+- 💬 Ask me about **React,Javascript, CSS and Frontend tools**
 
 - 📫 How to reach me **acharyaprashant27@gmail.com**
 
-- ⚡ Fun fact **I think I will be able to get into FAANG very soon.**
+- ⚡ Fun fact **I really love writing code, watching anime and listening music.**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/prashant-acharya-42904725b/">
