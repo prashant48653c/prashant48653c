@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Advanced Javascript and further looking for backend and mobile app development**
 
-- 👨‍💻 All of my projects are available at [[https://prashant48653c.github.io/Prashant-Portfolio/](https://prashant1.netlify.app/)](https://prashant48653c.github.io/Prashant-Portfolio/)
+- 👨‍💻 All of my projects are available at [[https://prashant48653c.github.io/Prashant-Portfolio/](https://prashant1.netlify.app/)] 
 
 - 💬 Ask me about **React,Javascript, CSS and Frontend tools**
 
