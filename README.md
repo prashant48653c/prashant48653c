@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Acharya</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate full stack developer from Nepal</h3>
 
 - 🔭 I’m currently working on **GuffSuff**
 
